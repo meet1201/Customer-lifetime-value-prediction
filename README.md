@@ -55,7 +55,8 @@ To run the analysis:
 
 
 
-```bash jupyter notebook CLV_Analysis.ipynb
+```bash
+ jupyter notebook CLV_Analysis.ipynb
 ```
 
 ##License
