@@ -1,4 +1,4 @@
-#**Customer Lifetime Value (CLV) Prediction Project
+**#Customer Lifetime Value (CLV) Prediction Project
 
 ##Overview**
 
